@@ -3,7 +3,7 @@ Inserrez une image ici
 
 
 ## Synopsys
-![synopsis](./tp3_gestion/img/synopsys.drawio.png)
+![synopsis](img/synopsis.drawio.png)
 ### index.html
 
 #### meta
