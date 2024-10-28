@@ -1,6 +1,7 @@
 # Paysages en Souffrance
 Inserrez une image ici
 
+## [Référence bac à sable](https://journals.openedition.org/mappemonde/7890)
 
 ## Synopsis
 ![synopsis](img/synopsis.drawio.png)
