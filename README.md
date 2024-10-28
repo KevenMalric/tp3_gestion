@@ -2,7 +2,7 @@
 Inserrez une image ici
 
 
-## Synopsys
+## Synopsis
 ![synopsis](img/synopsis.drawio.png)
 ### index.html
 
