@@ -15,6 +15,8 @@ Les haut parleur seront stéréo, donc placé de chaque côté de la surface de 
 pour que personne se frappe. Finalement les dimentions du bac à sable sont de 4'x 4'x 3,8' afin d'accueillir une bonne quntité de personne et de faire en sorte
 que personne éprouve des difficultés à intéragir.
 
+![plantation](img/plantation.png)
+
 ```html
 
 <meta name="description" content="Modèle docsify pour publication classique">
