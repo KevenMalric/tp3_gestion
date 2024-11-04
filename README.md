@@ -1,4 +1,4 @@
-# Paysages en Souffrance
+# Paysage en Souffrance
 | ![synopsis](img/bacsable.jpg) | ![synopsis](img/terrepolluer.jpg) |
 |-------|-------|
 
