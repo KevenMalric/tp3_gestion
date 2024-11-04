@@ -36,9 +36,15 @@ sera attelé au dessus du bac à sable. Le reste est pris en charge par le lieu 
 
 ### Logiciel utilisé
 
-![touchdesigner](img/touchdesigner.png)
+| ![touchdesigner](img/touchdesigner.png) | <b>TouchDesigner</b> |
+| :---: | :---: |
 
-Définit le titre de la page qui s'affiche dans l'onglet du navigateur et est utilisé par les moteurs de recherche comme le titre principal dans les résultats de recherche.
+Le logiciel TouchDesigner est assez polyvalent pour regrouper l'analyse des données kinects aisi que le changement visuel et sonore 
+désiré avec la detection de seuil.
+
+### autre
+
+Les ambiances sonores seront créés d'avance avec le logiciel Reaper et ne seront modifiés d'aucune façon lors de l'interaction avec l'oeuvre.
 
 
 
