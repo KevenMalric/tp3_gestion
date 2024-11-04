@@ -1,5 +1,5 @@
 # Paysages en Souffrance
-Inserrez une image ici
+|--![synopsis](img/synopsis_pes.drawio.png)--|--![synopsis](img/synopsis_pes.drawio.png)--|
 
 ## [Référence bac à sable](https://journals.openedition.org/mappemonde/7890)
 
