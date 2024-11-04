@@ -4,8 +4,8 @@
 ## [Référence bac à sable](https://journals.openedition.org/mappemonde/7890)
 
 ## Synopsis
-| ![plantation](img/plantation.png)  | ![plantation](img/plantation.png) |
-|----------|------------|
+
+![plantation](img/plantation.png)
 
 ### Plantation
 
