@@ -20,53 +20,26 @@ que personne éprouve des difficultés à intéragir.
 
 ![plantation](img/plantation.png)
 
-```html
+### liste d'équipement
 
-<meta name="description" content="Modèle docsify pour publication classique">
+L'artiste s'occupe de la construction du bac à sable et de la quantité de sable placé à l'intéreur afin de s'assurer que les données envoyé au logiciel soit précises.
+l'ordinateur avec le logiciel touch designer est également fournis par l'artiste pour facilité l'instalation de l'oeuvre. La kenect sera fournis par l'artiste, car celui-ci
+sera attelé au dessus du bac à sable. Le reste est pris en charge par le lieu d'exposition.
 
-```
+| Équipement de l'artiste | Équipement pise en charge par le lieu d'exposition |
+| :---: | :---: |
+| Ordinateur | Projecteur |
+| Bac à Sable | Haut Parleurs |
+| Sable | Câblage |
+| Kinect | Surface de Projection |
 
-### title
+
+### Logiciel utilisé
+
+![touchdesigner](img/touchdesigner.png)
+
 Définit le titre de la page qui s'affiche dans l'onglet du navigateur et est utilisé par les moteurs de recherche comme le titre principal dans les résultats de recherche.
 
-```html
-<title>Modèle docsify pour publication classique</title>
-```
 
-
-
-
-#### window.$docsify 
-
-##### name
-
-Titre de la page affiché dans la barre de coté
-
-```html
-name: 'Modèle Docsify Classique',
-```
-
-##### repo
-
-Lien vers le repository git du projet à documenter, cliquable depuis l'icone dans la barre de coté
-
-```html
-repo: 'https://github.com/gllmAR/docsify-modele-classique',
-```
-
-
-#### CSS (optionnelle)
-
-Source et lien vers style CSS lié  [gllmAR/docsify-simple-style](https://github.com/gllmAR/docsify-simple-style/)
-
-
-```html
-<style>
-    :root {
-        --theme-hue:2;
-        --theme-brightness:60%;
-    }
-</style>
-```
 
 
