@@ -1,11 +1,12 @@
 # Paysages en Souffrance
-|--![synopsis](img/synopsis_pes.drawio.png)--|--![synopsis](img/synopsis_pes.drawio.png)--|
+| ![synopsis](img/bacsable.jpg) | ![synopsis](img/synopsis_pes.drawio.png) |
+|-------|-------|
 
 ## [Référence bac à sable](https://journals.openedition.org/mappemonde/7890)
 
 ## Synopsis
 
-![plantation](img/plantation.png)
+![synopsis](img/synopsis_pes.drawio.png)
 
 ### Plantation
 
