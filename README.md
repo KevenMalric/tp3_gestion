@@ -8,12 +8,14 @@ Bac à sable interactif qui refète l'état de l'éco-systhème planétaire.
 
 ### objectif
 
-Sensibiliser les interacteurs(trices) au conséquences de l'excavation.
+Sensibiliser les interacteurs(trices) aux conséquences de l'excavation.
 
 ### Concept
 
-Les interacteurs(trices) se regrouperont autour du bac à sable et pourront intéragir 
+Les interacteurs(trices) se regrouperont autour du bac à sable et pourront intéragir  
+
 avec la topographie du paysage insi qu'avec l'éco-systhème. Chaque modification influencera
+
 la projection visuel de la terre. Il s'agira de trouver une balance entre nature et profit.
 
 ## [Référence bac à sable](https://journals.openedition.org/mappemonde/7890)
