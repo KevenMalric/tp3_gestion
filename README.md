@@ -24,6 +24,11 @@ la projection visuel de la terre. Il s'agira de trouver une balance entre nature
 
 ![interactif](img/schemat_iteractif.png) 
 
+### scénarimage
+
+| ![synopsis](img/bacsable.jpg) | ![synopsis](img/terrepolluer.jpg) |
+|-------|-------|
+
 ### Synopsis
 
 ![synopsis](img/synopsis_pes.drawio.png) 
