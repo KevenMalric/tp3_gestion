@@ -20,6 +20,10 @@ la projection visuel de la terre. Il s'agira de trouver une balance entre nature
 
 ## [Référence bac à sable](https://journals.openedition.org/mappemonde/7890)
 
+### shémat d'interaction
+
+![interactif](img/shémat_interactif.png) 
+
 ### Synopsis
 
 ![synopsis](img/synopsis_pes.drawio.png) 
