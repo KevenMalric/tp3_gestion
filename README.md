@@ -26,7 +26,7 @@ la projection visuel de la terre. Il s'agira de trouver une balance entre nature
 
 ### scénarimage
 
-| ![synopsis](img/scenarimage1.jpg) | ![synopsis](img/scenarimage2.jpg) |
+| ![synopsis](img/scenarimage1.jpg) | ![synopsis](img/scenrimage2.jpg) |
 |-------|-------|
 
 | ![synopsis](img/scenarimage3.jpg) | ![synopsis](img/scenarimage4.jpg) |
