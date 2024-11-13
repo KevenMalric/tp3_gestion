@@ -2,9 +2,23 @@
 | ![synopsis](img/bacsable.jpg) | ![synopsis](img/terrepolluer.jpg) |
 |-------|-------|
 
+### idée
+
+Bac à sable interactif qui refète l'état de l'éco-systhème planétaire.
+
+### objectif
+
+Sensibiliser les interacteurs(trices) au conséquences de l'excavation.
+
+### Concept
+
+Les interacteurs(trices) se regrouperont autour du bac à sable et pourront intéragir 
+avec la topographie du paysage insi qu'avec l'éco-systhème. Chaque modification influencera
+la projection visuel de la terre. Il s'agira de trouver une balance entre nature et profit.
+
 ## [Référence bac à sable](https://journals.openedition.org/mappemonde/7890)
 
-## Synopsis
+### Synopsis
 
 ![synopsis](img/synopsis_pes.drawio.png) 
 
