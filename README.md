@@ -22,7 +22,7 @@ la projection visuel de la terre. Il s'agira de trouver une balance entre nature
 
 ### shémat d'interaction
 
-![interactif](img/shémat_interactif.png) 
+![interactif](img/schémat_interactif.png) 
 
 ### Synopsis
 
